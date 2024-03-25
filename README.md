@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starsea" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+
+- 🔭 I’m currently working on IM System.
+- 🌱 I’m currently learning AI/ML & Swift
+
+
