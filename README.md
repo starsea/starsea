@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on IM System.
+- 🔭 I'm currently working on an IM system based on Golang.
 - 🌱 I’m currently learning AI/ML & Swift
 
 
